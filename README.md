@@ -1,3 +1,6 @@
+# Boids with Quadtree optimization
+
+
 <p align="center">
   <img src="https://github.com/m3akk/Boids_Quadtree_Python/assets/120716573/eccb7028-de37-493b-aee8-feb9a9349b82" alt="python boids">
 </p>
