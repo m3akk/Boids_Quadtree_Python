@@ -10,4 +10,6 @@ The basic features of the program are:
 3. Update of positions: Based on the calculated speed changes, the program updates the positions of the birds.
 4. Drawing: The program uses a graphical interface to display the simulation. Birds are shown as simple shapes (eg circles) that move on the screen.
 
-![python boids](https://github.com/m3akk/Boids_Quadtree_Python/assets/120716573/dfdeff99-1261-4f56-ba69-d1f9c38fafe6)
+
+![python boids](https://github.com/m3akk/Boids_Quadtree_Python/assets/120716573/eccb7028-de37-493b-aee8-feb9a9349b82)
+
