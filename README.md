@@ -1,4 +1,7 @@
-![python boids](https://github.com/m3akk/Boids_Quadtree_Python/assets/120716573/eccb7028-de37-493b-aee8-feb9a9349b82)
+<p align="center">
+  ![python boids](https://github.com/m3akk/Boids_Quadtree_Python/assets/120716573/eccb7028-de37-493b-aee8-feb9a9349b82)
+</p>
+
 
 
 Boids with Quadtree Optimization is a program that implements the simulation of bird flock behavior using the Boids (Bird-oid) algorithm and optimization using a quadtree data structure.
